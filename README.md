@@ -3,10 +3,10 @@ My name is Mahdi noori
  
 Flutter Developer 
 -----------------------------
-
+<!-- 
 *   🖥️  See my portfolio at [badrnezhad.com](https://badrnezhad.com)
 *   🚀  I'm currently working on [Holosen](https://holosen.net)
-*   🤝  I'm open to collaborating on interesting projects as a web and android developer
+*   🤝  I'm open to collaborating on interesting projects as a web and android developer -->
 <!-- 
 <a href="https://www.twitter.com/badrnezhad" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/badrnezhad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -14,7 +14,7 @@ Flutter Developer
                   src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
                   
 ### Skills
-<p align="left">
+<!-- <p align="left">
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
     <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -25,16 +25,17 @@ Flutter Developer
             <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="CSharp" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt="DotNet" /></a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-</p>
+</p> -->
                     
 ### Socials
                   
 <p align="left">
-    <a href="https://www.instagram.com/nulldevelopr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+    <a href="https://www.instagram.com/mahdi.n_tak" target="_blank" rel="mahdi.n_tak">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<!-- <a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="https://badrnezhad.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/badrnezhad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/badrnezhad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+  <a href="https://www.twitter.com/badrnezhad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> -->
 
 ### Badges
 
