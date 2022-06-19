@@ -7,11 +7,11 @@ Flutter Developer
 *   🖥️  See my portfolio at [badrnezhad.com](https://badrnezhad.com)
 *   🚀  I'm currently working on [Holosen](https://holosen.net)
 *   🤝  I'm open to collaborating on interesting projects as a web and android developer
-
+<!-- 
 <a href="https://www.twitter.com/badrnezhad" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/badrnezhad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
                   
 ### Skills
 <p align="left">
@@ -40,7 +40,7 @@ Flutter Developer
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/badrnezhad" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrnezhad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/nmahdi6" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrnezhad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ### Support Me
 <a href="https://www.buymeacoffee.com/badrnezhad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
